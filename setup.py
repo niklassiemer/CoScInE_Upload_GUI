@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 setup(
     name='coscine_gui',
     version='0.1.0',
-    description='GUI for the coscine pip package.',
+    description='Small tkinter based GUI for the coscine pip package.',
 
     author='Niklas Siemer',
     author_email='siemer@mpie.de',
