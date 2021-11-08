@@ -1,0 +1,1 @@
+from coscine_gui.coscine_gui import CoScInETokenGUI, CoScInEGUI
